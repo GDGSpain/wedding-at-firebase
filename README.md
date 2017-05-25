@@ -9,9 +9,9 @@ Veremos cómo usar la plataforma de BBDD realtime de FireBase, interactuando con
 
 Aplicación movil
 
-![basic-video1](https://github.com/GDGSpain/wedding-at-firebase/blob/master/image/app.gif | width=20)
+![basic-video1]("https://github.com/GDGSpain/wedding-at-firebase/blob/master/image/app.gif" width="200")
 
 
 Wall de fotos
 
-![basic-video2](https://github.com/GDGSpain/wedding-at-firebase/blob/master/image/wall.gif | width=600)
+![basic-video2]("https://github.com/GDGSpain/wedding-at-firebase/blob/master/image/wall.gif" width="600")
